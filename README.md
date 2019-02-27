@@ -1,4 +1,4 @@
-# Machine_Learning_Pipeline
+# MachineLearning_Pipeline
 
 ## Summary
 
